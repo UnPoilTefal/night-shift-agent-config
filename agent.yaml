@@ -1,0 +1,5 @@
+version: 1
+deniedTools:
+  # Barrière du cas E8 de l'épreuve (docs/proof.md de night-shift) : l'agent
+  # ne lance jamais une publication de release.
+  - "Bash(make release*)"
