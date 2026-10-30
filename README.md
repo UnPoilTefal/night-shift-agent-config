@@ -10,4 +10,4 @@ Configuration de l'agent des passes [night-shift](https://github.com/UnPoilTefal
 
 | Refus | Pourquoi |
 |---|---|
-| `Bash(make release*)` | Barrière du cas E8 de l'épreuve des barrières (palier 1) |
+| `Bash(make release*)` | Une publication de release reste une décision humaine |
